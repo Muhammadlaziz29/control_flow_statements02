@@ -30,5 +30,5 @@ int func(int a, int b, int c) {
 }
 
 void main() {
-    print(func(-9,2,3));
+    print(func(-8,2,3));
 }
